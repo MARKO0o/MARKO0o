@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MARKO0o
-- 👀 I’m interested in going jim, Coding, Gaming and more
+- 👀 I’m interested in developing websites
 - 🌱 I’m currently learning Coding/ ui ux design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on discord Kuragari#1271
+- 📫 Message me on https://linktr.ee/einfachmarkoo
 
 <!---
 MARKO0o/MARKO0o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
