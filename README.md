@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MARKO0o
-- 👀 I’m interested in developing websites
-- 🌱 I’m currently learning Coding/ ui ux design
-- 📫 Message me on https://linktr.ee/einfachmarkoo
+- 👋 Hi, I’m Marko
+- 👀 I’m interested in developing websites and coding basically anything
+- 🌱 I like to learn new skills and become better every day
 
 <!---
 MARKO0o/MARKO0o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
